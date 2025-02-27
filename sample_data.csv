@@ -1,0 +1,1001 @@
+product_name,brand,product_type,features,question,answer
+Apple Tablet 7,Apple,Tablet,"Long battery life, Waterproof design, Large storage capacity",Is it waterproof?,It is waterproof.
+Apple Smartwatch 3,Apple,Smartwatch,"Waterproof design, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 9 hours.
+Dell Smartwatch 10,Dell,Smartwatch,"High-resolution display, Waterproof design",Is it waterproof?,It is not waterproof.
+Dell Tablet 5,Dell,Tablet,"Powerful processor, Long battery life",Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 10,Dell,Smartwatch,"High-resolution display, Ultra-thin body",Is it waterproof?,It is not waterproof.
+HP Tablet 9,HP,Tablet,"Large storage capacity, Powerful processor",What is the battery life of this product?,It has a battery life of about 20 hours.
+Apple Laptop 7,Apple,Laptop,Long battery life,Is it waterproof?,It is not waterproof.
+Lenovo Smartphone 10,Lenovo,Smartphone,"Large storage capacity, Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartwatch 7,Apple,Smartwatch,"Ultra-thin body, Large storage capacity",Is it waterproof?,It is not waterproof.
+Dell Laptop 2,Dell,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+HP Laptop 3,HP,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+Apple Smartphone 7,Apple,Smartphone,"Long battery life, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Smartwatch 8,Dell,Smartwatch,"Large storage capacity, High-resolution display, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 23 hours.
+Huawei Smartwatch 4,Huawei,Smartwatch,"Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 12 hours.
+Samsung Laptop 7,Samsung,Laptop,"Waterproof design, Large storage capacity, Long battery life",Is it waterproof?,It is waterproof.
+HP Laptop 6,HP,Laptop,"Ultra-thin body, Large storage capacity",What is the battery life of this product?,It has a battery life of about 10 hours.
+Apple Smartphone 2,Apple,Smartphone,"Long battery life, Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Tablet 3,Apple,Tablet,Long battery life,Does it support fast charging?,It does not support fast charging.
+Lenovo Smartwatch 2,Lenovo,Smartwatch,Large storage capacity,Is it waterproof?,It is not waterproof.
+Dell Laptop 6,Dell,Laptop,"Powerful processor, Ultra-thin body, High-resolution display",Is it waterproof?,It is waterproof.
+Dell Tablet 8,Dell,Tablet,"High-resolution display, Large storage capacity, Waterproof design",Is it waterproof?,It is not waterproof.
+Dell Tablet 8,Dell,Tablet,"Large storage capacity, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Dell Smartphone 4,Dell,Smartphone,"Large storage capacity, Waterproof design, Powerful processor",Does it support fast charging?,It does support fast charging.
+Lenovo Laptop 8,Lenovo,Laptop,"Powerful processor, Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 22 hours.
+Apple Smartwatch 9,Apple,Smartwatch,"High-resolution display, Ultra-thin body, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Tablet 10,HP,Tablet,"Ultra-thin body, Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 14 hours.
+Lenovo Smartphone 10,Lenovo,Smartphone,"Waterproof design, Long battery life",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartphone 4,Lenovo,Smartphone,Long battery life,Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 2,Samsung,Laptop,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 20 hours.
+Samsung Tablet 8,Samsung,Tablet,"Powerful processor, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Samsung Tablet 10,Samsung,Tablet,"Ultra-thin body, Long battery life, High-resolution display",Is it waterproof?,It is waterproof.
+Huawei Smartphone 1,Huawei,Smartphone,"Powerful processor, Waterproof design, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Laptop 2,Huawei,Laptop,"Large storage capacity, High-resolution display",Does it support fast charging?,It does support fast charging.
+HP Laptop 4,HP,Laptop,Powerful processor,Does it support fast charging?,It does support fast charging.
+Samsung Tablet 1,Samsung,Tablet,Large storage capacity,Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 7,Lenovo,Smartphone,"Ultra-thin body, Long battery life, Powerful processor",Does it support fast charging?,It does not support fast charging.
+HP Tablet 5,HP,Tablet,"Ultra-thin body, Waterproof design",What is the battery life of this product?,It has a battery life of about 21 hours.
+HP Laptop 6,HP,Laptop,"Ultra-thin body, Waterproof design, Powerful processor",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartphone 5,Samsung,Smartphone,Long battery life,Is it waterproof?,It is waterproof.
+HP Smartwatch 7,HP,Smartwatch,"Waterproof design, High-resolution display, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartwatch 7,Lenovo,Smartwatch,"Waterproof design, Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Samsung Laptop 8,Samsung,Laptop,Powerful processor,What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Smartwatch 6,Dell,Smartwatch,Long battery life,Does it support fast charging?,It does not support fast charging.
+Samsung Smartphone 8,Samsung,Smartphone,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 3,HP,Laptop,"Long battery life, Waterproof design, High-resolution display",Is it waterproof?,It is waterproof.
+Huawei Laptop 4,Huawei,Laptop,"Powerful processor, Long battery life",Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 3,Dell,Smartwatch,"Waterproof design, Ultra-thin body, Large storage capacity",What is the battery life of this product?,It has a battery life of about 17 hours.
+Apple Laptop 10,Apple,Laptop,"Waterproof design, Long battery life, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Tablet 1,HP,Tablet,"High-resolution display, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Smartwatch 5,HP,Smartwatch,Long battery life,Is it waterproof?,It is not waterproof.
+Huawei Smartphone 7,Huawei,Smartphone,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 14 hours.
+Dell Tablet 10,Dell,Tablet,Powerful processor,What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartphone 7,Lenovo,Smartphone,"Powerful processor, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Huawei Tablet 4,Huawei,Tablet,High-resolution display,Is it waterproof?,It is waterproof.
+Huawei Laptop 7,Huawei,Laptop,Waterproof design,Is it waterproof?,It is waterproof.
+Apple Smartwatch 6,Apple,Smartwatch,"Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Tablet 5,Apple,Tablet,"Large storage capacity, Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Smartwatch 4,Dell,Smartwatch,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Huawei Laptop 2,Huawei,Laptop,Ultra-thin body,Is it waterproof?,It is not waterproof.
+Dell Tablet 8,Dell,Tablet,High-resolution display,What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Tablet 5,Dell,Tablet,"Ultra-thin body, Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Smartphone 1,Apple,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Smartwatch 4,Huawei,Smartwatch,"Large storage capacity, High-resolution display, Waterproof design",What is the battery life of this product?,It has a battery life of about 21 hours.
+Samsung Tablet 3,Samsung,Tablet,"High-resolution display, Large storage capacity, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Tablet 8,HP,Tablet,"Powerful processor, High-resolution display",What is the battery life of this product?,It has a battery life of about 10 hours.
+Dell Tablet 1,Dell,Tablet,Long battery life,Is it waterproof?,It is not waterproof.
+HP Smartphone 1,HP,Smartphone,"Waterproof design, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Tablet 4,Lenovo,Tablet,"Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartwatch 3,Lenovo,Smartwatch,"Powerful processor, High-resolution display, Waterproof design",Is it waterproof?,It is waterproof.
+Dell Smartphone 5,Dell,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartphone 10,Lenovo,Smartphone,"Ultra-thin body, Waterproof design",What is the battery life of this product?,It has a battery life of about 14 hours.
+Lenovo Laptop 2,Lenovo,Laptop,Ultra-thin body,Is it waterproof?,It is waterproof.
+Dell Tablet 2,Dell,Tablet,"Large storage capacity, Powerful processor, Waterproof design",Is it waterproof?,It is not waterproof.
+Huawei Smartphone 7,Huawei,Smartphone,"Long battery life, Ultra-thin body, High-resolution display",Is it waterproof?,It is not waterproof.
+Huawei Tablet 10,Huawei,Tablet,"High-resolution display, Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 10 hours.
+Dell Smartwatch 2,Dell,Smartwatch,Waterproof design,What is the battery life of this product?,It has a battery life of about 15 hours.
+Huawei Smartphone 2,Huawei,Smartphone,"Long battery life, Ultra-thin body, Powerful processor",Is it waterproof?,It is waterproof.
+Apple Tablet 4,Apple,Tablet,Large storage capacity,Does it support fast charging?,It does not support fast charging.
+Apple Smartphone 7,Apple,Smartphone,"High-resolution display, Powerful processor, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Dell Laptop 6,Dell,Laptop,"Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartphone 4,Huawei,Smartphone,"Ultra-thin body, Long battery life",What is the battery life of this product?,It has a battery life of about 15 hours.
+Apple Smartwatch 5,Apple,Smartwatch,Ultra-thin body,Is it waterproof?,It is waterproof.
+Samsung Laptop 9,Samsung,Laptop,"Waterproof design, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,Large storage capacity,What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Smartphone 8,Huawei,Smartphone,Waterproof design,What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Smartwatch 4,Lenovo,Smartwatch,Ultra-thin body,Is it waterproof?,It is waterproof.
+Huawei Tablet 3,Huawei,Tablet,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 256GB.
+HP Smartphone 7,HP,Smartphone,"Long battery life, Powerful processor, Large storage capacity",What is the battery life of this product?,It has a battery life of about 17 hours.
+HP Smartphone 1,HP,Smartphone,Large storage capacity,Is it waterproof?,It is waterproof.
+Samsung Smartwatch 9,Samsung,Smartwatch,Ultra-thin body,Does it support fast charging?,It does support fast charging.
+Lenovo Tablet 3,Lenovo,Tablet,Long battery life,Does it support fast charging?,It does support fast charging.
+Dell Laptop 10,Dell,Laptop,"Long battery life, High-resolution display, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Laptop 7,Lenovo,Laptop,"Large storage capacity, Ultra-thin body, Long battery life",Does it support fast charging?,It does not support fast charging.
+Huawei Laptop 7,Huawei,Laptop,"High-resolution display, Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Tablet 9,HP,Tablet,Long battery life,What is the storage capacity?,It has a storage capacity of 128GB.
+HP Smartwatch 10,HP,Smartwatch,"Waterproof design, High-resolution display, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Tablet 3,HP,Tablet,"High-resolution display, Powerful processor, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 4,Samsung,Smartwatch,"High-resolution display, Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Tablet 7,Dell,Tablet,"High-resolution display, Ultra-thin body",Is it waterproof?,It is waterproof.
+Apple Smartwatch 2,Apple,Smartwatch,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 3,Huawei,Smartphone,"Long battery life, Large storage capacity, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Lenovo Smartwatch 1,Lenovo,Smartwatch,"Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Long battery life, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartwatch 6,Apple,Smartwatch,"High-resolution display, Powerful processor, Ultra-thin body",Is it waterproof?,It is waterproof.
+Samsung Smartphone 1,Samsung,Smartphone,"Large storage capacity, Long battery life",Is it waterproof?,It is waterproof.
+Dell Smartphone 7,Dell,Smartphone,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Tablet 5,Lenovo,Tablet,"High-resolution display, Long battery life, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartphone 6,Samsung,Smartphone,"High-resolution display, Powerful processor",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartphone 2,HP,Smartphone,Large storage capacity,Is it waterproof?,It is waterproof.
+Lenovo Laptop 4,Lenovo,Laptop,Large storage capacity,What is the battery life of this product?,It has a battery life of about 20 hours.
+Apple Tablet 1,Apple,Tablet,"Ultra-thin body, Large storage capacity",What is the battery life of this product?,It has a battery life of about 13 hours.
+Dell Laptop 7,Dell,Laptop,High-resolution display,Does it support fast charging?,It does support fast charging.
+Dell Laptop 1,Dell,Laptop,Powerful processor,Does it support fast charging?,It does support fast charging.
+Lenovo Laptop 7,Lenovo,Laptop,"Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Smartwatch 10,Apple,Smartwatch,"Long battery life, Waterproof design",Is it waterproof?,It is not waterproof.
+Samsung Smartphone 9,Samsung,Smartphone,"Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartphone 3,Apple,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 128GB.
+HP Tablet 8,HP,Tablet,"Large storage capacity, Long battery life",Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 9,Samsung,Laptop,"Ultra-thin body, High-resolution display, Powerful processor",Is it waterproof?,It is waterproof.
+HP Smartphone 6,HP,Smartphone,"Waterproof design, Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 12 hours.
+Lenovo Laptop 2,Lenovo,Laptop,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Smartwatch 2,Apple,Smartwatch,"High-resolution display, Powerful processor, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 9 hours.
+Huawei Smartwatch 7,Huawei,Smartwatch,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 16 hours.
+Huawei Smartphone 5,Huawei,Smartphone,Waterproof design,Is it waterproof?,It is waterproof.
+Apple Smartwatch 6,Apple,Smartwatch,Large storage capacity,Is it waterproof?,It is waterproof.
+HP Smartphone 5,HP,Smartphone,"Long battery life, Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Smartphone 8,Apple,Smartphone,"High-resolution display, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Tablet 3,Huawei,Tablet,"Large storage capacity, Long battery life, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartphone 7,Lenovo,Smartphone,Large storage capacity,What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Laptop 10,Dell,Laptop,Ultra-thin body,Is it waterproof?,It is waterproof.
+Lenovo Smartwatch 4,Lenovo,Smartwatch,"High-resolution display, Ultra-thin body, Large storage capacity",What is the battery life of this product?,It has a battery life of about 19 hours.
+Apple Smartwatch 8,Apple,Smartwatch,"Powerful processor, Ultra-thin body, Large storage capacity",Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 1,Samsung,Smartwatch,"High-resolution display, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Huawei Laptop 6,Huawei,Laptop,High-resolution display,Is it waterproof?,It is waterproof.
+Lenovo Smartwatch 2,Lenovo,Smartwatch,"Waterproof design, Large storage capacity, Powerful processor",What is the battery life of this product?,It has a battery life of about 16 hours.
+HP Laptop 7,HP,Laptop,Ultra-thin body,Is it waterproof?,It is waterproof.
+HP Smartphone 10,HP,Smartphone,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Laptop 4,Huawei,Laptop,"Powerful processor, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 23 hours.
+Lenovo Tablet 5,Lenovo,Tablet,Powerful processor,Is it waterproof?,It is waterproof.
+Samsung Tablet 1,Samsung,Tablet,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartphone 10,Lenovo,Smartphone,Long battery life,Does it support fast charging?,It does support fast charging.
+Samsung Tablet 9,Samsung,Tablet,"Ultra-thin body, Powerful processor, Waterproof design",Is it waterproof?,It is not waterproof.
+Apple Smartphone 10,Apple,Smartphone,"Large storage capacity, Waterproof design, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+HP Laptop 8,HP,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Apple Laptop 2,Apple,Laptop,"Waterproof design, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 9 hours.
+HP Smartphone 6,HP,Smartphone,"Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Smartwatch 1,Samsung,Smartwatch,"Ultra-thin body, Large storage capacity, Long battery life",Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 4,Lenovo,Smartphone,"Ultra-thin body, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartphone 1,Huawei,Smartphone,"Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+HP Laptop 3,HP,Laptop,"Waterproof design, Powerful processor",Is it waterproof?,It is not waterproof.
+Lenovo Tablet 10,Lenovo,Tablet,"Long battery life, Large storage capacity",Is it waterproof?,It is not waterproof.
+HP Smartwatch 4,HP,Smartwatch,"Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Laptop 1,Lenovo,Laptop,"Long battery life, Large storage capacity, Powerful processor",Is it waterproof?,It is not waterproof.
+Samsung Tablet 10,Samsung,Tablet,"Waterproof design, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 17 hours.
+Lenovo Smartwatch 1,Lenovo,Smartwatch,"High-resolution display, Large storage capacity",Is it waterproof?,It is waterproof.
+HP Smartwatch 2,HP,Smartwatch,"Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Apple Smartphone 1,Apple,Smartphone,"Powerful processor, Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartwatch 6,Lenovo,Smartwatch,"Powerful processor, Large storage capacity, Long battery life",Is it waterproof?,It is waterproof.
+Apple Smartphone 8,Apple,Smartphone,"Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartphone 4,Samsung,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Tablet 1,Lenovo,Tablet,"High-resolution display, Long battery life",Is it waterproof?,It is waterproof.
+Apple Tablet 6,Apple,Tablet,"Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Laptop 2,Apple,Laptop,"Ultra-thin body, Long battery life",Does it support fast charging?,It does support fast charging.
+HP Smartphone 6,HP,Smartphone,"Long battery life, Ultra-thin body, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Tablet 6,Dell,Tablet,"Large storage capacity, Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 8 hours.
+Samsung Tablet 10,Samsung,Tablet,"High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Tablet 9,Apple,Tablet,Powerful processor,Does it support fast charging?,It does support fast charging.
+Huawei Smartwatch 1,Huawei,Smartwatch,"High-resolution display, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Laptop 9,Huawei,Laptop,"Ultra-thin body, Long battery life",Does it support fast charging?,It does not support fast charging.
+Lenovo Tablet 4,Lenovo,Tablet,"Waterproof design, Long battery life, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Dell Smartphone 1,Dell,Smartphone,"Ultra-thin body, Waterproof design",Is it waterproof?,It is waterproof.
+Samsung Laptop 4,Samsung,Laptop,"Powerful processor, Ultra-thin body",Is it waterproof?,It is waterproof.
+Apple Laptop 4,Apple,Laptop,"Waterproof design, Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Dell Laptop 10,Dell,Laptop,"Ultra-thin body, Waterproof design, Powerful processor",What is the battery life of this product?,It has a battery life of about 18 hours.
+HP Smartwatch 3,HP,Smartwatch,"Powerful processor, High-resolution display",Does it support fast charging?,It does support fast charging.
+Huawei Smartphone 9,Huawei,Smartphone,Ultra-thin body,Is it waterproof?,It is waterproof.
+Huawei Smartphone 5,Huawei,Smartphone,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Tablet 3,HP,Tablet,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Apple Tablet 8,Apple,Tablet,"High-resolution display, Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Laptop 5,HP,Laptop,"Powerful processor, Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 20 hours.
+Huawei Laptop 10,Huawei,Laptop,"Waterproof design, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Laptop 2,Dell,Laptop,"Powerful processor, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 4,Samsung,Tablet,"Powerful processor, Waterproof design, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 5,Samsung,Smartwatch,"Long battery life, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Dell Smartwatch 2,Dell,Smartwatch,"High-resolution display, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Apple Smartphone 7,Apple,Smartphone,Long battery life,Is it waterproof?,It is not waterproof.
+Dell Smartwatch 8,Dell,Smartwatch,Long battery life,Is it waterproof?,It is not waterproof.
+Apple Tablet 10,Apple,Tablet,Long battery life,Does it support fast charging?,It does support fast charging.
+Lenovo Smartphone 6,Lenovo,Smartphone,Large storage capacity,What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Smartwatch 1,Dell,Smartwatch,"Ultra-thin body, High-resolution display, Large storage capacity",Does it support fast charging?,It does support fast charging.
+HP Laptop 10,HP,Laptop,"Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 22 hours.
+Samsung Laptop 3,Samsung,Laptop,"High-resolution display, Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Tablet 8,Huawei,Tablet,Waterproof design,Does it support fast charging?,It does support fast charging.
+Dell Smartphone 4,Dell,Smartphone,"Ultra-thin body, Long battery life, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 10,Samsung,Tablet,"High-resolution display, Powerful processor",Does it support fast charging?,It does support fast charging.
+HP Smartphone 5,HP,Smartphone,"Powerful processor, High-resolution display",Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 4,Dell,Smartwatch,"Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 15 hours.
+Huawei Tablet 6,Huawei,Tablet,"Powerful processor, Large storage capacity, Waterproof design",Is it waterproof?,It is waterproof.
+HP Smartwatch 3,HP,Smartwatch,"Large storage capacity, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Lenovo Laptop 3,Lenovo,Laptop,"Waterproof design, Powerful processor",What is the battery life of this product?,It has a battery life of about 11 hours.
+HP Smartphone 7,HP,Smartphone,"Large storage capacity, Waterproof design",Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 3,Apple,Smartwatch,"High-resolution display, Waterproof design, Powerful processor",What is the battery life of this product?,It has a battery life of about 23 hours.
+HP Laptop 6,HP,Laptop,"Long battery life, Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 22 hours.
+Samsung Tablet 5,Samsung,Tablet,Powerful processor,What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Tablet 9,Apple,Tablet,"Ultra-thin body, High-resolution display",Does it support fast charging?,It does support fast charging.
+Samsung Smartphone 1,Samsung,Smartphone,"Long battery life, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 8,Samsung,Tablet,Ultra-thin body,Does it support fast charging?,It does support fast charging.
+Dell Laptop 1,Dell,Laptop,"High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 9,HP,Smartwatch,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Tablet 6,Huawei,Tablet,"Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartwatch 5,Samsung,Smartwatch,Long battery life,What is the battery life of this product?,It has a battery life of about 22 hours.
+Dell Smartwatch 8,Dell,Smartwatch,"High-resolution display, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Tablet 2,Dell,Tablet,"Large storage capacity, High-resolution display",Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 4,Lenovo,Smartwatch,"Large storage capacity, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Samsung Tablet 3,Samsung,Tablet,Powerful processor,Is it waterproof?,It is not waterproof.
+HP Smartphone 7,HP,Smartphone,"Long battery life, Powerful processor, Waterproof design",Is it waterproof?,It is not waterproof.
+HP Laptop 5,HP,Laptop,"Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 9 hours.
+Lenovo Smartphone 3,Lenovo,Smartphone,"High-resolution display, Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 10 hours.
+Huawei Laptop 3,Huawei,Laptop,Waterproof design,What is the battery life of this product?,It has a battery life of about 21 hours.
+Lenovo Laptop 8,Lenovo,Laptop,"Large storage capacity, High-resolution display, Waterproof design",Is it waterproof?,It is not waterproof.
+Samsung Smartphone 4,Samsung,Smartphone,Large storage capacity,What is the battery life of this product?,It has a battery life of about 22 hours.
+HP Smartphone 7,HP,Smartphone,Powerful processor,Does it support fast charging?,It does support fast charging.
+Samsung Smartphone 5,Samsung,Smartphone,"Waterproof design, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Laptop 6,Dell,Laptop,"Long battery life, High-resolution display, Waterproof design",Does it support fast charging?,It does support fast charging.
+Huawei Tablet 9,Huawei,Tablet,Waterproof design,What is the storage capacity?,It has a storage capacity of 512GB.
+Huawei Tablet 9,Huawei,Tablet,"Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Smartwatch 5,HP,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartphone 1,Samsung,Smartphone,"Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Tablet 9,Lenovo,Tablet,"Long battery life, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Apple Smartwatch 10,Apple,Smartwatch,"Waterproof design, Powerful processor, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Laptop 5,HP,Laptop,"Ultra-thin body, Waterproof design",Does it support fast charging?,It does support fast charging.
+Apple Laptop 2,Apple,Laptop,High-resolution display,What is the storage capacity?,It has a storage capacity of 512GB.
+HP Laptop 4,HP,Laptop,"Powerful processor, Ultra-thin body",Is it waterproof?,It is waterproof.
+Dell Smartphone 4,Dell,Smartphone,Long battery life,Is it waterproof?,It is not waterproof.
+Apple Laptop 3,Apple,Laptop,Large storage capacity,What is the battery life of this product?,It has a battery life of about 8 hours.
+Huawei Tablet 4,Huawei,Tablet,"High-resolution display, Waterproof design, Long battery life",Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 8,Samsung,Laptop,"Long battery life, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 6,Huawei,Smartphone,Long battery life,What is the battery life of this product?,It has a battery life of about 19 hours.
+Dell Smartwatch 10,Dell,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Laptop 6,Lenovo,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 4,Lenovo,Smartwatch,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Smartwatch 6,HP,Smartwatch,"Large storage capacity, Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 5,HP,Smartwatch,"Powerful processor, Waterproof design, High-resolution display",Does it support fast charging?,It does support fast charging.
+Apple Tablet 6,Apple,Tablet,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 21 hours.
+Huawei Laptop 1,Huawei,Laptop,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Laptop 9,Samsung,Laptop,"Waterproof design, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Tablet 1,Lenovo,Tablet,"High-resolution display, Ultra-thin body, Waterproof design",Is it waterproof?,It is not waterproof.
+Apple Smartwatch 1,Apple,Smartwatch,"Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Laptop 3,Samsung,Laptop,"Powerful processor, Long battery life",Is it waterproof?,It is waterproof.
+HP Smartwatch 3,HP,Smartwatch,"Ultra-thin body, Powerful processor, Large storage capacity",Does it support fast charging?,It does support fast charging.
+HP Smartwatch 8,HP,Smartwatch,"High-resolution display, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Apple Tablet 3,Apple,Tablet,"Waterproof design, Long battery life",Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 9,Apple,Smartwatch,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Apple Smartphone 7,Apple,Smartphone,High-resolution display,What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,High-resolution display,What is the battery life of this product?,It has a battery life of about 12 hours.
+Samsung Smartphone 3,Samsung,Smartphone,"High-resolution display, Long battery life",Does it support fast charging?,It does support fast charging.
+HP Laptop 4,HP,Laptop,High-resolution display,Does it support fast charging?,It does support fast charging.
+Lenovo Laptop 2,Lenovo,Laptop,"Long battery life, Large storage capacity, Powerful processor",What is the battery life of this product?,It has a battery life of about 8 hours.
+Samsung Laptop 5,Samsung,Laptop,"Waterproof design, Powerful processor",Is it waterproof?,It is not waterproof.
+Apple Tablet 8,Apple,Tablet,"Ultra-thin body, Powerful processor, Large storage capacity",Is it waterproof?,It is not waterproof.
+Apple Smartphone 10,Apple,Smartphone,"Large storage capacity, Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 4,Lenovo,Smartwatch,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Apple Tablet 7,Apple,Tablet,Long battery life,What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Tablet 5,Dell,Tablet,"Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 10 hours.
+HP Tablet 10,HP,Tablet,"Large storage capacity, Powerful processor",Is it waterproof?,It is not waterproof.
+Samsung Smartphone 10,Samsung,Smartphone,High-resolution display,What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Smartphone 8,Huawei,Smartphone,"Waterproof design, Ultra-thin body, Long battery life",What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Tablet 10,Lenovo,Tablet,"Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Huawei Tablet 2,Huawei,Tablet,"Waterproof design, Long battery life",Is it waterproof?,It is waterproof.
+HP Laptop 1,HP,Laptop,"Large storage capacity, Powerful processor",What is the battery life of this product?,It has a battery life of about 9 hours.
+Samsung Smartphone 1,Samsung,Smartphone,Powerful processor,Is it waterproof?,It is not waterproof.
+HP Smartwatch 7,HP,Smartwatch,High-resolution display,Is it waterproof?,It is waterproof.
+Lenovo Tablet 9,Lenovo,Tablet,"High-resolution display, Waterproof design, Powerful processor",Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 1,Samsung,Smartwatch,"High-resolution display, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Tablet 7,HP,Tablet,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Apple Tablet 8,Apple,Tablet,Powerful processor,Is it waterproof?,It is waterproof.
+Huawei Laptop 9,Huawei,Laptop,"Powerful processor, High-resolution display",Is it waterproof?,It is waterproof.
+Apple Tablet 6,Apple,Tablet,"Large storage capacity, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Apple Smartphone 5,Apple,Smartphone,"Powerful processor, Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 19 hours.
+Lenovo Tablet 1,Lenovo,Tablet,Large storage capacity,Is it waterproof?,It is not waterproof.
+Lenovo Laptop 3,Lenovo,Laptop,"Large storage capacity, Waterproof design, Powerful processor",Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 3,Samsung,Smartwatch,"High-resolution display, Long battery life",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Tablet 10,Dell,Tablet,High-resolution display,What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Smartwatch 7,Dell,Smartwatch,"High-resolution display, Large storage capacity",Is it waterproof?,It is waterproof.
+HP Smartphone 7,HP,Smartphone,High-resolution display,Does it support fast charging?,It does not support fast charging.
+HP Laptop 3,HP,Laptop,"Waterproof design, High-resolution display",What is the battery life of this product?,It has a battery life of about 16 hours.
+Apple Laptop 5,Apple,Laptop,"Powerful processor, High-resolution display, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Dell Tablet 7,Dell,Tablet,"Large storage capacity, Powerful processor",Is it waterproof?,It is waterproof.
+Samsung Tablet 3,Samsung,Tablet,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Smartphone 5,Dell,Smartphone,"Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 21 hours.
+Lenovo Laptop 6,Lenovo,Laptop,High-resolution display,What is the battery life of this product?,It has a battery life of about 11 hours.
+Samsung Tablet 9,Samsung,Tablet,"Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 16 hours.
+Apple Smartphone 1,Apple,Smartphone,"Powerful processor, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Huawei Tablet 3,Huawei,Tablet,Waterproof design,What is the battery life of this product?,It has a battery life of about 10 hours.
+Huawei Laptop 5,Huawei,Laptop,"Powerful processor, Large storage capacity",What is the battery life of this product?,It has a battery life of about 16 hours.
+Dell Smartwatch 1,Dell,Smartwatch,"Waterproof design, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Apple Smartwatch 5,Apple,Smartwatch,"Large storage capacity, Waterproof design, High-resolution display",Is it waterproof?,It is not waterproof.
+HP Smartphone 1,HP,Smartphone,Long battery life,What is the battery life of this product?,It has a battery life of about 10 hours.
+Samsung Smartphone 5,Samsung,Smartphone,"Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Huawei Tablet 4,Huawei,Tablet,"Ultra-thin body, Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Smartwatch 8,HP,Smartwatch,Large storage capacity,Is it waterproof?,It is waterproof.
+HP Smartphone 3,HP,Smartphone,"Long battery life, High-resolution display",Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 6,Samsung,Smartwatch,"Waterproof design, Large storage capacity, Long battery life",Is it waterproof?,It is waterproof.
+Lenovo Smartphone 1,Lenovo,Smartphone,"Ultra-thin body, High-resolution display, Long battery life",What is the battery life of this product?,It has a battery life of about 12 hours.
+Dell Tablet 3,Dell,Tablet,"High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 16 hours.
+Apple Laptop 7,Apple,Laptop,Long battery life,Is it waterproof?,It is waterproof.
+Apple Laptop 10,Apple,Laptop,Long battery life,What is the battery life of this product?,It has a battery life of about 24 hours.
+Dell Laptop 3,Dell,Laptop,"High-resolution display, Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Tablet 9,Apple,Tablet,Waterproof design,What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Laptop 7,Huawei,Laptop,"Large storage capacity, Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 21 hours.
+Lenovo Laptop 3,Lenovo,Laptop,"Ultra-thin body, Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartwatch 5,HP,Smartwatch,"Ultra-thin body, Large storage capacity, Long battery life",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Tablet 9,Apple,Tablet,Waterproof design,Is it waterproof?,It is waterproof.
+Dell Tablet 8,Dell,Tablet,"Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 20 hours.
+Samsung Smartwatch 2,Samsung,Smartwatch,Large storage capacity,What is the battery life of this product?,It has a battery life of about 21 hours.
+Dell Laptop 1,Dell,Laptop,"Ultra-thin body, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 4,HP,Smartwatch,"Powerful processor, Waterproof design, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Lenovo Tablet 8,Lenovo,Tablet,Waterproof design,What is the battery life of this product?,It has a battery life of about 15 hours.
+Samsung Tablet 10,Samsung,Tablet,"Ultra-thin body, Large storage capacity, Powerful processor",Is it waterproof?,It is waterproof.
+Apple Smartwatch 6,Apple,Smartwatch,Ultra-thin body,Does it support fast charging?,It does support fast charging.
+HP Smartwatch 6,HP,Smartwatch,"Powerful processor, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Dell Smartphone 1,Dell,Smartphone,"Waterproof design, Long battery life, High-resolution display",Is it waterproof?,It is not waterproof.
+Apple Laptop 2,Apple,Laptop,"Waterproof design, High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 21 hours.
+Lenovo Tablet 5,Lenovo,Tablet,"Large storage capacity, High-resolution display, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Apple Tablet 2,Apple,Tablet,"High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 18 hours.
+HP Smartwatch 2,HP,Smartwatch,"Long battery life, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Huawei Smartphone 7,Huawei,Smartphone,High-resolution display,Is it waterproof?,It is not waterproof.
+Samsung Smartwatch 6,Samsung,Smartwatch,"Waterproof design, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Huawei Laptop 2,Huawei,Laptop,Powerful processor,What is the battery life of this product?,It has a battery life of about 21 hours.
+HP Smartwatch 2,HP,Smartwatch,"Powerful processor, High-resolution display",Is it waterproof?,It is not waterproof.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Ultra-thin body, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Laptop 1,HP,Laptop,"Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Smartwatch 4,Dell,Smartwatch,"Waterproof design, Powerful processor",What is the battery life of this product?,It has a battery life of about 22 hours.
+Lenovo Smartwatch 7,Lenovo,Smartwatch,"Powerful processor, High-resolution display",Does it support fast charging?,It does not support fast charging.
+HP Tablet 7,HP,Tablet,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 6,Huawei,Smartwatch,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 10 hours.
+Samsung Smartwatch 1,Samsung,Smartwatch,"Long battery life, Powerful processor",Is it waterproof?,It is not waterproof.
+Huawei Smartphone 9,Huawei,Smartphone,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 11 hours.
+HP Smartphone 10,HP,Smartphone,"Waterproof design, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Apple Tablet 7,Apple,Tablet,"Large storage capacity, Ultra-thin body, Waterproof design",Does it support fast charging?,It does support fast charging.
+Huawei Smartphone 10,Huawei,Smartphone,Waterproof design,Is it waterproof?,It is not waterproof.
+HP Laptop 2,HP,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Tablet 2,Samsung,Tablet,High-resolution display,What is the battery life of this product?,It has a battery life of about 12 hours.
+HP Smartphone 1,HP,Smartphone,"Large storage capacity, Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Apple Tablet 8,Apple,Tablet,High-resolution display,What is the battery life of this product?,It has a battery life of about 19 hours.
+Apple Laptop 4,Apple,Laptop,"High-resolution display, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Tablet 1,Samsung,Tablet,Waterproof design,What is the battery life of this product?,It has a battery life of about 22 hours.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,"High-resolution display, Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 512GB.
+Huawei Laptop 3,Huawei,Laptop,"Long battery life, High-resolution display",Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,"Ultra-thin body, Large storage capacity",Is it waterproof?,It is waterproof.
+HP Laptop 9,HP,Laptop,"Long battery life, Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Smartphone 6,Apple,Smartphone,"Ultra-thin body, Waterproof design, High-resolution display",What is the battery life of this product?,It has a battery life of about 13 hours.
+HP Laptop 10,HP,Laptop,"Powerful processor, Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 16 hours.
+Huawei Smartwatch 8,Huawei,Smartwatch,"Powerful processor, Long battery life, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Dell Smartwatch 2,Dell,Smartwatch,"High-resolution display, Large storage capacity",Is it waterproof?,It is waterproof.
+Apple Smartwatch 1,Apple,Smartwatch,Large storage capacity,What is the battery life of this product?,It has a battery life of about 12 hours.
+Lenovo Laptop 5,Lenovo,Laptop,"Powerful processor, Waterproof design",Does it support fast charging?,It does support fast charging.
+Huawei Tablet 6,Huawei,Tablet,Long battery life,Is it waterproof?,It is waterproof.
+Apple Tablet 4,Apple,Tablet,"Ultra-thin body, Large storage capacity, Powerful processor",Is it waterproof?,It is not waterproof.
+Samsung Smartphone 8,Samsung,Smartphone,"Long battery life, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Smartphone 10,Dell,Smartphone,Powerful processor,Does it support fast charging?,It does not support fast charging.
+HP Laptop 10,HP,Laptop,"High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Laptop 7,Lenovo,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+HP Tablet 1,HP,Tablet,Powerful processor,Does it support fast charging?,It does support fast charging.
+HP Tablet 6,HP,Tablet,"Ultra-thin body, Long battery life",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 3,Samsung,Tablet,"High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 13 hours.
+HP Tablet 6,HP,Tablet,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 1,Apple,Smartwatch,"Long battery life, Large storage capacity, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Huawei Smartphone 8,Huawei,Smartphone,"Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 21 hours.
+Huawei Laptop 5,Huawei,Laptop,"High-resolution display, Ultra-thin body, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Lenovo Tablet 5,Lenovo,Tablet,"High-resolution display, Powerful processor, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartphone 8,Samsung,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Tablet 1,Dell,Tablet,"Powerful processor, Waterproof design",Is it waterproof?,It is not waterproof.
+Huawei Tablet 9,Huawei,Tablet,"Waterproof design, Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Samsung Tablet 9,Samsung,Tablet,"Large storage capacity, Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 10 hours.
+Lenovo Laptop 9,Lenovo,Laptop,High-resolution display,Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 6,Lenovo,Smartphone,"Powerful processor, Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 9 hours.
+Apple Tablet 9,Apple,Tablet,"Waterproof design, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartwatch 3,Samsung,Smartwatch,"High-resolution display, Powerful processor",Is it waterproof?,It is not waterproof.
+Dell Laptop 1,Dell,Laptop,High-resolution display,What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Smartphone 7,Samsung,Smartphone,"Large storage capacity, High-resolution display, Waterproof design",What is the battery life of this product?,It has a battery life of about 20 hours.
+Apple Smartwatch 1,Apple,Smartwatch,"Powerful processor, High-resolution display",Does it support fast charging?,It does support fast charging.
+Samsung Smartphone 8,Samsung,Smartphone,"Long battery life, Large storage capacity, Powerful processor",Does it support fast charging?,It does support fast charging.
+Dell Tablet 8,Dell,Tablet,Ultra-thin body,Is it waterproof?,It is not waterproof.
+HP Laptop 8,HP,Laptop,"Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartwatch 1,Apple,Smartwatch,"Powerful processor, High-resolution display, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Huawei Smartphone 8,Huawei,Smartphone,"Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Tablet 9,Dell,Tablet,"Ultra-thin body, Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 15 hours.
+Lenovo Tablet 5,Lenovo,Tablet,"Long battery life, Large storage capacity, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 5,Samsung,Tablet,"Large storage capacity, Waterproof design",Is it waterproof?,It is waterproof.
+Apple Tablet 4,Apple,Tablet,"Long battery life, High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 9 hours.
+Huawei Smartphone 7,Huawei,Smartphone,Powerful processor,Is it waterproof?,It is waterproof.
+Huawei Smartwatch 9,Huawei,Smartwatch,Ultra-thin body,Is it waterproof?,It is not waterproof.
+Samsung Laptop 3,Samsung,Laptop,"High-resolution display, Long battery life",Is it waterproof?,It is waterproof.
+Apple Tablet 4,Apple,Tablet,Waterproof design,What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Tablet 2,Lenovo,Tablet,"Powerful processor, Large storage capacity",Is it waterproof?,It is waterproof.
+Samsung Smartwatch 5,Samsung,Smartwatch,High-resolution display,Is it waterproof?,It is not waterproof.
+Huawei Tablet 8,Huawei,Tablet,"Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 13 hours.
+Dell Tablet 10,Dell,Tablet,"Ultra-thin body, Waterproof design, High-resolution display",Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 1,Apple,Smartwatch,"Long battery life, Powerful processor",Is it waterproof?,It is waterproof.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,"Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Laptop 1,Apple,Laptop,"Powerful processor, High-resolution display, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Lenovo Laptop 3,Lenovo,Laptop,"Large storage capacity, Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 11 hours.
+HP Laptop 4,HP,Laptop,"Ultra-thin body, Powerful processor, Large storage capacity",Is it waterproof?,It is waterproof.
+Samsung Smartphone 5,Samsung,Smartphone,"Long battery life, Waterproof design, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Dell Laptop 3,Dell,Laptop,"Long battery life, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Smartphone 2,HP,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 128GB.
+HP Smartphone 4,HP,Smartphone,Powerful processor,Is it waterproof?,It is not waterproof.
+Apple Laptop 9,Apple,Laptop,Powerful processor,Is it waterproof?,It is waterproof.
+Huawei Smartphone 2,Huawei,Smartphone,"Long battery life, Ultra-thin body",Is it waterproof?,It is waterproof.
+Apple Smartphone 2,Apple,Smartphone,"High-resolution display, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Smartphone 6,Apple,Smartphone,"Waterproof design, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Samsung Laptop 10,Samsung,Laptop,"Long battery life, Large storage capacity, Powerful processor",What is the battery life of this product?,It has a battery life of about 10 hours.
+Huawei Tablet 7,Huawei,Tablet,"Ultra-thin body, Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 10 hours.
+Apple Smartphone 3,Apple,Smartphone,"Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 11 hours.
+Apple Tablet 9,Apple,Tablet,High-resolution display,Is it waterproof?,It is waterproof.
+Dell Smartwatch 4,Dell,Smartwatch,"Powerful processor, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Dell Tablet 8,Dell,Tablet,"Long battery life, High-resolution display, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Laptop 10,Huawei,Laptop,High-resolution display,Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 8,Dell,Smartwatch,"Powerful processor, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 3,Samsung,Tablet,"High-resolution display, Ultra-thin body, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Tablet 8,HP,Tablet,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartphone 5,Apple,Smartphone,Long battery life,Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 10,Huawei,Smartphone,Ultra-thin body,Is it waterproof?,It is not waterproof.
+Dell Laptop 3,Dell,Laptop,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 19 hours.
+Samsung Laptop 1,Samsung,Laptop,Large storage capacity,What is the battery life of this product?,It has a battery life of about 14 hours.
+Huawei Laptop 2,Huawei,Laptop,Powerful processor,What is the battery life of this product?,It has a battery life of about 13 hours.
+HP Tablet 2,HP,Tablet,"High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 4,HP,Smartwatch,"High-resolution display, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+HP Smartwatch 10,HP,Smartwatch,Powerful processor,Does it support fast charging?,It does not support fast charging.
+Dell Laptop 8,Dell,Laptop,Powerful processor,What is the battery life of this product?,It has a battery life of about 17 hours.
+HP Smartphone 8,HP,Smartphone,"Long battery life, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 13 hours.
+Dell Laptop 3,Dell,Laptop,"Long battery life, High-resolution display, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Samsung Smartphone 1,Samsung,Smartphone,High-resolution display,What is the battery life of this product?,It has a battery life of about 9 hours.
+Lenovo Laptop 2,Lenovo,Laptop,Powerful processor,Is it waterproof?,It is not waterproof.
+Samsung Smartphone 3,Samsung,Smartphone,"Long battery life, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 9,Samsung,Tablet,"Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 21 hours.
+Dell Laptop 6,Dell,Laptop,Ultra-thin body,Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 2,Samsung,Laptop,"Long battery life, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 13 hours.
+Huawei Smartwatch 6,Huawei,Smartwatch,"Large storage capacity, Powerful processor",Does it support fast charging?,It does not support fast charging.
+HP Tablet 10,HP,Tablet,"High-resolution display, Waterproof design, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Smartwatch 3,Dell,Smartwatch,"High-resolution display, Long battery life",Is it waterproof?,It is not waterproof.
+HP Smartphone 10,HP,Smartphone,Ultra-thin body,Does it support fast charging?,It does not support fast charging.
+Lenovo Laptop 3,Lenovo,Laptop,"High-resolution display, Powerful processor",Does it support fast charging?,It does support fast charging.
+HP Laptop 3,HP,Laptop,"Large storage capacity, High-resolution display",Is it waterproof?,It is not waterproof.
+HP Laptop 5,HP,Laptop,"High-resolution display, Powerful processor",Is it waterproof?,It is waterproof.
+Huawei Smartphone 6,Huawei,Smartphone,"Large storage capacity, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Dell Smartwatch 9,Dell,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Tablet 8,Lenovo,Tablet,"Large storage capacity, Powerful processor, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 8,Huawei,Smartphone,Waterproof design,Is it waterproof?,It is waterproof.
+Dell Laptop 1,Dell,Laptop,"Large storage capacity, Long battery life",Does it support fast charging?,It does support fast charging.
+HP Smartwatch 4,HP,Smartwatch,"Ultra-thin body, Waterproof design",What is the battery life of this product?,It has a battery life of about 13 hours.
+Huawei Laptop 3,Huawei,Laptop,"Large storage capacity, High-resolution display, Powerful processor",Is it waterproof?,It is not waterproof.
+Lenovo Laptop 3,Lenovo,Laptop,"Ultra-thin body, Long battery life",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 7,HP,Smartwatch,"Long battery life, Powerful processor, Waterproof design",What is the battery life of this product?,It has a battery life of about 14 hours.
+Lenovo Smartphone 4,Lenovo,Smartphone,"Large storage capacity, Waterproof design",Is it waterproof?,It is not waterproof.
+HP Tablet 7,HP,Tablet,"Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartwatch 2,Lenovo,Smartwatch,"Waterproof design, High-resolution display",Does it support fast charging?,It does support fast charging.
+Dell Tablet 10,Dell,Tablet,Long battery life,Is it waterproof?,It is not waterproof.
+Huawei Tablet 7,Huawei,Tablet,"Ultra-thin body, Large storage capacity, High-resolution display",Does it support fast charging?,It does support fast charging.
+Dell Tablet 5,Dell,Tablet,High-resolution display,What is the storage capacity?,It has a storage capacity of 512GB.
+HP Laptop 2,HP,Laptop,"Powerful processor, High-resolution display",Is it waterproof?,It is waterproof.
+Lenovo Tablet 7,Lenovo,Tablet,"Long battery life, High-resolution display, Waterproof design",What is the battery life of this product?,It has a battery life of about 14 hours.
+HP Smartwatch 1,HP,Smartwatch,"Powerful processor, High-resolution display, Long battery life",What is the battery life of this product?,It has a battery life of about 16 hours.
+Dell Smartwatch 5,Dell,Smartwatch,"Large storage capacity, Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 17 hours.
+Samsung Smartphone 1,Samsung,Smartphone,"Long battery life, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartphone 10,Lenovo,Smartphone,Long battery life,What is the battery life of this product?,It has a battery life of about 22 hours.
+Lenovo Tablet 10,Lenovo,Tablet,"Powerful processor, Ultra-thin body, Waterproof design",Is it waterproof?,It is waterproof.
+Lenovo Smartphone 9,Lenovo,Smartphone,Large storage capacity,Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Long battery life, Large storage capacity",What is the battery life of this product?,It has a battery life of about 21 hours.
+Samsung Smartwatch 4,Samsung,Smartwatch,"Waterproof design, Powerful processor, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 8 hours.
+Huawei Tablet 10,Huawei,Tablet,"Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 22 hours.
+Dell Smartwatch 7,Dell,Smartwatch,"Long battery life, Waterproof design, Powerful processor",Is it waterproof?,It is not waterproof.
+Dell Smartphone 3,Dell,Smartphone,"Powerful processor, Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 18 hours.
+Samsung Smartphone 6,Samsung,Smartphone,"High-resolution display, Powerful processor, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 11 hours.
+Huawei Smartwatch 7,Huawei,Smartwatch,High-resolution display,Does it support fast charging?,It does not support fast charging.
+Lenovo Tablet 1,Lenovo,Tablet,"Large storage capacity, Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartphone 2,Lenovo,Smartphone,"Powerful processor, Waterproof design, Long battery life",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 3,Lenovo,Smartwatch,"Powerful processor, Large storage capacity",What is the battery life of this product?,It has a battery life of about 10 hours.
+Samsung Laptop 5,Samsung,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Apple Laptop 10,Apple,Laptop,Powerful processor,Does it support fast charging?,It does not support fast charging.
+Dell Smartwatch 8,Dell,Smartwatch,"High-resolution display, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartphone 2,Lenovo,Smartphone,Large storage capacity,Is it waterproof?,It is waterproof.
+Samsung Laptop 7,Samsung,Laptop,"Ultra-thin body, Waterproof design, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 23 hours.
+Samsung Smartphone 3,Samsung,Smartphone,"Large storage capacity, Ultra-thin body, Waterproof design",What is the battery life of this product?,It has a battery life of about 8 hours.
+Apple Smartwatch 6,Apple,Smartwatch,"Ultra-thin body, Large storage capacity, Powerful processor",Does it support fast charging?,It does support fast charging.
+Apple Laptop 8,Apple,Laptop,Large storage capacity,Does it support fast charging?,It does not support fast charging.
+Lenovo Laptop 2,Lenovo,Laptop,"Large storage capacity, Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Huawei Laptop 2,Huawei,Laptop,"Powerful processor, Ultra-thin body, High-resolution display",What is the battery life of this product?,It has a battery life of about 14 hours.
+Dell Smartphone 8,Dell,Smartphone,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Huawei Tablet 9,Huawei,Tablet,Waterproof design,What is the battery life of this product?,It has a battery life of about 23 hours.
+HP Laptop 5,HP,Laptop,Waterproof design,What is the battery life of this product?,It has a battery life of about 10 hours.
+HP Tablet 7,HP,Tablet,"High-resolution display, Long battery life",Is it waterproof?,It is waterproof.
+Dell Tablet 2,Dell,Tablet,Waterproof design,Is it waterproof?,It is not waterproof.
+HP Tablet 1,HP,Tablet,Long battery life,Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 9,Huawei,Smartphone,"Large storage capacity, Waterproof design, Long battery life",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Laptop 9,Dell,Laptop,Waterproof design,What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartphone 3,Lenovo,Smartphone,Powerful processor,What is the battery life of this product?,It has a battery life of about 18 hours.
+Huawei Smartphone 6,Huawei,Smartphone,"High-resolution display, Long battery life, Waterproof design",Does it support fast charging?,It does support fast charging.
+Dell Tablet 7,Dell,Tablet,"Long battery life, High-resolution display, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Huawei Tablet 3,Huawei,Tablet,"Long battery life, Powerful processor",What is the battery life of this product?,It has a battery life of about 16 hours.
+Dell Smartphone 4,Dell,Smartphone,"High-resolution display, Large storage capacity",Is it waterproof?,It is not waterproof.
+Huawei Smartphone 4,Huawei,Smartphone,"High-resolution display, Ultra-thin body, Long battery life",Does it support fast charging?,It does support fast charging.
+Apple Smartphone 2,Apple,Smartphone,"Powerful processor, Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 11 hours.
+Dell Smartwatch 1,Dell,Smartwatch,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 24 hours.
+Dell Smartwatch 5,Dell,Smartwatch,"Ultra-thin body, Long battery life",What is the battery life of this product?,It has a battery life of about 23 hours.
+Dell Smartphone 10,Dell,Smartphone,Long battery life,Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 4,Samsung,Tablet,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Tablet 3,Apple,Tablet,"Ultra-thin body, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartphone 8,Huawei,Smartphone,"Powerful processor, Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 11 hours.
+Dell Tablet 8,Dell,Tablet,"Large storage capacity, High-resolution display",What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Tablet 10,Samsung,Tablet,"Powerful processor, Ultra-thin body, Large storage capacity",What is the battery life of this product?,It has a battery life of about 13 hours.
+Lenovo Tablet 9,Lenovo,Tablet,"Waterproof design, High-resolution display",Is it waterproof?,It is waterproof.
+Dell Smartwatch 8,Dell,Smartwatch,"Ultra-thin body, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Long battery life, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartwatch 5,Lenovo,Smartwatch,"Powerful processor, Ultra-thin body, High-resolution display",Does it support fast charging?,It does not support fast charging.
+HP Tablet 5,HP,Tablet,High-resolution display,Is it waterproof?,It is not waterproof.
+HP Laptop 10,HP,Laptop,"High-resolution display, Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Apple Smartwatch 1,Apple,Smartwatch,"Large storage capacity, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Dell Smartphone 8,Dell,Smartphone,Waterproof design,Does it support fast charging?,It does support fast charging.
+Dell Smartphone 6,Dell,Smartphone,"High-resolution display, Powerful processor",Is it waterproof?,It is waterproof.
+Dell Smartphone 1,Dell,Smartphone,Large storage capacity,Is it waterproof?,It is not waterproof.
+Samsung Smartphone 5,Samsung,Smartphone,"High-resolution display, Ultra-thin body, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Samsung Smartwatch 5,Samsung,Smartwatch,"Large storage capacity, Waterproof design, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Dell Smartphone 2,Dell,Smartphone,Long battery life,Does it support fast charging?,It does support fast charging.
+Lenovo Smartphone 1,Lenovo,Smartphone,"Ultra-thin body, Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartphone 4,HP,Smartphone,"High-resolution display, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartwatch 3,HP,Smartwatch,Ultra-thin body,Is it waterproof?,It is waterproof.
+HP Smartphone 10,HP,Smartphone,"Waterproof design, Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 8 hours.
+HP Tablet 5,HP,Tablet,"Large storage capacity, Powerful processor, Long battery life",Does it support fast charging?,It does support fast charging.
+Lenovo Tablet 3,Lenovo,Tablet,"Long battery life, Waterproof design, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Tablet 3,Dell,Tablet,Waterproof design,What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartphone 1,Samsung,Smartphone,Long battery life,Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 1,Lenovo,Smartphone,"Ultra-thin body, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartphone 3,Lenovo,Smartphone,"Powerful processor, Ultra-thin body, Waterproof design",What is the battery life of this product?,It has a battery life of about 15 hours.
+Samsung Smartwatch 3,Samsung,Smartwatch,Waterproof design,Is it waterproof?,It is not waterproof.
+Huawei Tablet 2,Huawei,Tablet,"High-resolution display, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 16 hours.
+HP Tablet 6,HP,Tablet,Powerful processor,Is it waterproof?,It is waterproof.
+Apple Laptop 6,Apple,Laptop,Large storage capacity,What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartwatch 4,Samsung,Smartwatch,"Long battery life, Ultra-thin body, Large storage capacity",What is the battery life of this product?,It has a battery life of about 14 hours.
+Apple Smartphone 5,Apple,Smartphone,Ultra-thin body,Is it waterproof?,It is waterproof.
+Samsung Tablet 1,Samsung,Tablet,Large storage capacity,Is it waterproof?,It is waterproof.
+HP Laptop 6,HP,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Huawei Tablet 5,Huawei,Tablet,Waterproof design,Does it support fast charging?,It does support fast charging.
+Dell Smartphone 6,Dell,Smartphone,"Large storage capacity, Powerful processor",Is it waterproof?,It is waterproof.
+Huawei Laptop 8,Huawei,Laptop,"Powerful processor, Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 20 hours.
+Huawei Smartphone 5,Huawei,Smartphone,"Waterproof design, Large storage capacity, High-resolution display",Is it waterproof?,It is waterproof.
+Dell Tablet 10,Dell,Tablet,"High-resolution display, Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Tablet 3,HP,Tablet,"Waterproof design, Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 10 hours.
+Lenovo Smartphone 4,Lenovo,Smartphone,"Powerful processor, Waterproof design",Is it waterproof?,It is waterproof.
+Apple Smartphone 10,Apple,Smartphone,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 10 hours.
+Samsung Smartphone 2,Samsung,Smartphone,"High-resolution display, Waterproof design",Is it waterproof?,It is waterproof.
+Samsung Tablet 8,Samsung,Tablet,High-resolution display,What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Tablet 4,Dell,Tablet,"Ultra-thin body, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Apple Laptop 3,Apple,Laptop,"Large storage capacity, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Samsung Smartphone 2,Samsung,Smartphone,"Long battery life, Large storage capacity, Ultra-thin body",Is it waterproof?,It is waterproof.
+Apple Smartwatch 3,Apple,Smartwatch,Powerful processor,Is it waterproof?,It is not waterproof.
+Apple Laptop 2,Apple,Laptop,High-resolution display,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Tablet 4,HP,Tablet,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Samsung Smartphone 3,Samsung,Smartphone,"Waterproof design, High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+Samsung Smartphone 5,Samsung,Smartphone,"Long battery life, Waterproof design, High-resolution display",Is it waterproof?,It is waterproof.
+Samsung Laptop 2,Samsung,Laptop,"Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Smartwatch 6,Samsung,Smartwatch,Long battery life,Does it support fast charging?,It does not support fast charging.
+Apple Smartwatch 8,Apple,Smartwatch,"Large storage capacity, High-resolution display",Is it waterproof?,It is not waterproof.
+Samsung Laptop 5,Samsung,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Tablet 3,HP,Tablet,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Smartwatch 10,Huawei,Smartwatch,"High-resolution display, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Apple Tablet 4,Apple,Tablet,"Ultra-thin body, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Apple Laptop 9,Apple,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 6,Lenovo,Smartwatch,High-resolution display,What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Tablet 8,Samsung,Tablet,"Large storage capacity, High-resolution display",Is it waterproof?,It is waterproof.
+HP Tablet 7,HP,Tablet,Large storage capacity,Is it waterproof?,It is waterproof.
+Apple Smartphone 4,Apple,Smartphone,"Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 5,Lenovo,Smartwatch,"High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 23 hours.
+Huawei Smartwatch 5,Huawei,Smartwatch,"Ultra-thin body, Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Laptop 10,HP,Laptop,"Ultra-thin body, Large storage capacity",Is it waterproof?,It is not waterproof.
+Dell Smartphone 5,Dell,Smartphone,High-resolution display,What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartphone 5,Lenovo,Smartphone,"Powerful processor, High-resolution display",Does it support fast charging?,It does support fast charging.
+Apple Tablet 6,Apple,Tablet,"Large storage capacity, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 10,Samsung,Tablet,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 22 hours.
+HP Laptop 6,HP,Laptop,"Long battery life, Waterproof design, Large storage capacity",Is it waterproof?,It is waterproof.
+Huawei Tablet 5,Huawei,Tablet,"High-resolution display, Powerful processor",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Laptop 9,Samsung,Laptop,"Ultra-thin body, Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 13 hours.
+Samsung Laptop 2,Samsung,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+Huawei Smartwatch 9,Huawei,Smartwatch,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartwatch 8,Samsung,Smartwatch,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Large storage capacity, Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Tablet 9,Apple,Tablet,"Powerful processor, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 10,Huawei,Smartphone,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Dell Smartphone 4,Dell,Smartphone,"Waterproof design, High-resolution display, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 18 hours.
+Samsung Smartphone 4,Samsung,Smartphone,Waterproof design,What is the battery life of this product?,It has a battery life of about 18 hours.
+Apple Smartwatch 4,Apple,Smartwatch,"Large storage capacity, Long battery life",Is it waterproof?,It is waterproof.
+Dell Laptop 9,Dell,Laptop,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 8,Apple,Smartwatch,High-resolution display,What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Laptop 10,Lenovo,Laptop,"Powerful processor, Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Tablet 5,Huawei,Tablet,"Long battery life, High-resolution display, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Samsung Smartphone 1,Samsung,Smartphone,"Waterproof design, Long battery life, Powerful processor",What is the battery life of this product?,It has a battery life of about 13 hours.
+Apple Smartphone 2,Apple,Smartphone,"Ultra-thin body, Powerful processor, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Dell Smartwatch 3,Dell,Smartwatch,"Waterproof design, Long battery life, High-resolution display",Is it waterproof?,It is waterproof.
+HP Tablet 5,HP,Tablet,"Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 4,Lenovo,Smartphone,"High-resolution display, Waterproof design, Powerful processor",Does it support fast charging?,It does support fast charging.
+Huawei Tablet 4,Huawei,Tablet,Waterproof design,Is it waterproof?,It is waterproof.
+Lenovo Smartphone 10,Lenovo,Smartphone,High-resolution display,Is it waterproof?,It is waterproof.
+Samsung Tablet 9,Samsung,Tablet,"Waterproof design, High-resolution display, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartphone 9,Huawei,Smartphone,"High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 8,Samsung,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 2,Dell,Smartwatch,"Powerful processor, Waterproof design",What is the battery life of this product?,It has a battery life of about 21 hours.
+Apple Laptop 5,Apple,Laptop,"Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 17 hours.
+Apple Smartwatch 9,Apple,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Smartphone 1,Lenovo,Smartphone,"Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Smartwatch 6,Dell,Smartwatch,"Powerful processor, Large storage capacity, Waterproof design",Is it waterproof?,It is waterproof.
+Dell Smartwatch 8,Dell,Smartwatch,Powerful processor,What is the battery life of this product?,It has a battery life of about 10 hours.
+Apple Smartphone 8,Apple,Smartphone,Long battery life,Is it waterproof?,It is waterproof.
+HP Smartphone 5,HP,Smartphone,"Powerful processor, Long battery life, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Samsung Laptop 9,Samsung,Laptop,Ultra-thin body,Does it support fast charging?,It does support fast charging.
+HP Laptop 2,HP,Laptop,"Ultra-thin body, Large storage capacity, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Apple Smartwatch 10,Apple,Smartwatch,"Ultra-thin body, Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Smartwatch 4,Apple,Smartwatch,"Long battery life, High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Laptop 7,Apple,Laptop,High-resolution display,Is it waterproof?,It is not waterproof.
+HP Smartwatch 5,HP,Smartwatch,"Large storage capacity, Waterproof design, Ultra-thin body",Is it waterproof?,It is not waterproof.
+HP Smartphone 9,HP,Smartphone,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartphone 7,HP,Smartphone,"Waterproof design, Powerful processor",Is it waterproof?,It is not waterproof.
+Lenovo Laptop 10,Lenovo,Laptop,"Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 5,Dell,Smartwatch,"Large storage capacity, Powerful processor",Is it waterproof?,It is waterproof.
+Dell Laptop 4,Dell,Laptop,"Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Smartphone 8,Samsung,Smartphone,"Powerful processor, Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Smartphone 1,HP,Smartphone,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartwatch 10,HP,Smartwatch,"High-resolution display, Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 2,HP,Smartwatch,"Large storage capacity, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Tablet 10,Dell,Tablet,"Ultra-thin body, Powerful processor",Does it support fast charging?,It does support fast charging.
+Apple Smartphone 3,Apple,Smartphone,"Ultra-thin body, Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Laptop 5,Samsung,Laptop,Powerful processor,Is it waterproof?,It is waterproof.
+HP Smartwatch 5,HP,Smartwatch,"Powerful processor, Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartphone 6,HP,Smartphone,"Long battery life, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartphone 1,Apple,Smartphone,"Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Smartwatch 5,HP,Smartwatch,"High-resolution display, Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Smartwatch 9,Apple,Smartwatch,"Waterproof design, Powerful processor, High-resolution display",Is it waterproof?,It is not waterproof.
+Apple Laptop 6,Apple,Laptop,"Waterproof design, Long battery life",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartphone 1,HP,Smartphone,Powerful processor,What is the battery life of this product?,It has a battery life of about 10 hours.
+Huawei Smartwatch 2,Huawei,Smartwatch,"Waterproof design, Powerful processor",Is it waterproof?,It is waterproof.
+Apple Smartwatch 5,Apple,Smartwatch,Powerful processor,Is it waterproof?,It is not waterproof.
+HP Laptop 8,HP,Laptop,"High-resolution display, Large storage capacity, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Dell Tablet 3,Dell,Tablet,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 4,Lenovo,Smartphone,"Ultra-thin body, Large storage capacity, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Tablet 2,Apple,Tablet,"Large storage capacity, High-resolution display, Long battery life",Is it waterproof?,It is not waterproof.
+Huawei Laptop 1,Huawei,Laptop,"Ultra-thin body, Waterproof design, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 1,HP,Smartwatch,Large storage capacity,What is the battery life of this product?,It has a battery life of about 8 hours.
+Huawei Smartphone 4,Huawei,Smartphone,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Dell Smartwatch 2,Dell,Smartwatch,Waterproof design,What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartwatch 5,Huawei,Smartwatch,"High-resolution display, Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Tablet 5,Lenovo,Tablet,"High-resolution display, Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 15 hours.
+HP Smartphone 9,HP,Smartphone,"Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Smartwatch 5,Dell,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Tablet 5,Huawei,Tablet,Waterproof design,What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartwatch 7,Huawei,Smartwatch,"Long battery life, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Dell Laptop 7,Dell,Laptop,Long battery life,Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 3,Lenovo,Smartphone,"Ultra-thin body, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartphone 10,Huawei,Smartphone,"Powerful processor, Waterproof design",Is it waterproof?,It is not waterproof.
+Samsung Tablet 5,Samsung,Tablet,"Large storage capacity, Waterproof design, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 10,Huawei,Smartwatch,"Waterproof design, High-resolution display",Is it waterproof?,It is waterproof.
+Samsung Laptop 3,Samsung,Laptop,"High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Smartwatch 9,Dell,Smartwatch,"Large storage capacity, Waterproof design, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 9,Lenovo,Smartphone,"Large storage capacity, Waterproof design, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 1,HP,Laptop,Long battery life,Does it support fast charging?,It does support fast charging.
+Lenovo Smartphone 10,Lenovo,Smartphone,Large storage capacity,Is it waterproof?,It is not waterproof.
+Samsung Laptop 4,Samsung,Laptop,"Powerful processor, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartphone 6,Lenovo,Smartphone,Long battery life,Is it waterproof?,It is waterproof.
+Dell Laptop 8,Dell,Laptop,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Dell Tablet 9,Dell,Tablet,"Ultra-thin body, High-resolution display, Waterproof design",Does it support fast charging?,It does support fast charging.
+HP Smartwatch 8,HP,Smartwatch,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Laptop 9,Apple,Laptop,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartphone 1,Lenovo,Smartphone,"Long battery life, Ultra-thin body, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Apple Laptop 4,Apple,Laptop,"Long battery life, Ultra-thin body, Waterproof design",Is it waterproof?,It is not waterproof.
+Apple Smartphone 10,Apple,Smartphone,"High-resolution display, Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 16 hours.
+HP Smartphone 10,HP,Smartphone,Powerful processor,Is it waterproof?,It is waterproof.
+Lenovo Smartphone 2,Lenovo,Smartphone,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 8 hours.
+Samsung Smartwatch 5,Samsung,Smartwatch,"Long battery life, Powerful processor, Waterproof design",Is it waterproof?,It is waterproof.
+HP Smartwatch 7,HP,Smartwatch,"Large storage capacity, Powerful processor, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 8,Lenovo,Smartwatch,Waterproof design,Is it waterproof?,It is waterproof.
+Apple Smartwatch 7,Apple,Smartwatch,Powerful processor,Does it support fast charging?,It does support fast charging.
+Huawei Smartphone 8,Huawei,Smartphone,"Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Laptop 10,Samsung,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Apple Tablet 7,Apple,Tablet,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Tablet 9,Lenovo,Tablet,"High-resolution display, Waterproof design",Is it waterproof?,It is waterproof.
+Apple Tablet 4,Apple,Tablet,"Ultra-thin body, High-resolution display, Waterproof design",Is it waterproof?,It is not waterproof.
+Lenovo Tablet 1,Lenovo,Tablet,"Waterproof design, Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 19 hours.
+Samsung Laptop 10,Samsung,Laptop,"Waterproof design, Long battery life",Is it waterproof?,It is waterproof.
+Samsung Smartphone 4,Samsung,Smartphone,"Long battery life, Powerful processor, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Lenovo Smartphone 8,Lenovo,Smartphone,"Ultra-thin body, High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Tablet 7,Dell,Tablet,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Smartwatch 3,Samsung,Smartwatch,High-resolution display,Does it support fast charging?,It does not support fast charging.
+Samsung Smartwatch 7,Samsung,Smartwatch,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Tablet 5,Samsung,Tablet,Ultra-thin body,Is it waterproof?,It is not waterproof.
+HP Smartwatch 7,HP,Smartwatch,"Long battery life, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 4,Huawei,Smartphone,"Ultra-thin body, High-resolution display, Large storage capacity",What is the battery life of this product?,It has a battery life of about 13 hours.
+Lenovo Smartphone 7,Lenovo,Smartphone,"High-resolution display, Large storage capacity, Long battery life",Is it waterproof?,It is not waterproof.
+Dell Laptop 5,Dell,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Laptop 4,Lenovo,Laptop,"Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 16 hours.
+Samsung Laptop 7,Samsung,Laptop,"Powerful processor, High-resolution display",What is the battery life of this product?,It has a battery life of about 21 hours.
+Dell Tablet 3,Dell,Tablet,"High-resolution display, Waterproof design",What is the battery life of this product?,It has a battery life of about 22 hours.
+Dell Smartphone 10,Dell,Smartphone,"High-resolution display, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Smartwatch 2,Samsung,Smartwatch,"Waterproof design, Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Smartwatch 6,Dell,Smartwatch,"Ultra-thin body, Long battery life, Powerful processor",Is it waterproof?,It is not waterproof.
+Huawei Smartwatch 5,Huawei,Smartwatch,"Ultra-thin body, Waterproof design, Powerful processor",Is it waterproof?,It is waterproof.
+Huawei Smartphone 2,Huawei,Smartphone,"Large storage capacity, Long battery life",What is the battery life of this product?,It has a battery life of about 20 hours.
+Apple Smartwatch 1,Apple,Smartwatch,Waterproof design,Is it waterproof?,It is waterproof.
+Dell Laptop 7,Dell,Laptop,"High-resolution display, Long battery life, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 21 hours.
+Dell Smartphone 5,Dell,Smartphone,Large storage capacity,Is it waterproof?,It is waterproof.
+HP Laptop 9,HP,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartwatch 8,Samsung,Smartwatch,High-resolution display,Is it waterproof?,It is waterproof.
+Lenovo Laptop 9,Lenovo,Laptop,"High-resolution display, Large storage capacity, Waterproof design",What is the battery life of this product?,It has a battery life of about 10 hours.
+Huawei Laptop 3,Huawei,Laptop,"Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Tablet 8,Samsung,Tablet,High-resolution display,Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 3,Apple,Smartwatch,"Waterproof design, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Lenovo Tablet 8,Lenovo,Tablet,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 11 hours.
+Lenovo Smartwatch 3,Lenovo,Smartwatch,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Tablet 10,Apple,Tablet,Waterproof design,Is it waterproof?,It is not waterproof.
+Apple Smartwatch 5,Apple,Smartwatch,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Laptop 4,Lenovo,Laptop,Powerful processor,Is it waterproof?,It is waterproof.
+Samsung Smartphone 9,Samsung,Smartphone,Waterproof design,Does it support fast charging?,It does not support fast charging.
+Huawei Laptop 3,Huawei,Laptop,"Long battery life, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 6,Huawei,Smartwatch,"High-resolution display, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 22 hours.
+Apple Smartphone 2,Apple,Smartphone,"Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Smartwatch 3,Apple,Smartwatch,High-resolution display,What is the battery life of this product?,It has a battery life of about 22 hours.
+Huawei Laptop 2,Huawei,Laptop,"Long battery life, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 5,Lenovo,Smartwatch,"Long battery life, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 1,Apple,Smartwatch,Waterproof design,Is it waterproof?,It is not waterproof.
+Samsung Laptop 9,Samsung,Laptop,"Ultra-thin body, Powerful processor, High-resolution display",Is it waterproof?,It is not waterproof.
+Lenovo Smartphone 6,Lenovo,Smartphone,Waterproof design,What is the battery life of this product?,It has a battery life of about 23 hours.
+Apple Smartwatch 10,Apple,Smartwatch,"Waterproof design, Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Tablet 4,Samsung,Tablet,"Long battery life, Waterproof design",Is it waterproof?,It is not waterproof.
+Apple Smartwatch 1,Apple,Smartwatch,"Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Tablet 1,Huawei,Tablet,"Waterproof design, Powerful processor",Is it waterproof?,It is waterproof.
+Dell Smartwatch 3,Dell,Smartwatch,High-resolution display,What is the battery life of this product?,It has a battery life of about 18 hours.
+Lenovo Tablet 7,Lenovo,Tablet,"Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Laptop 7,Samsung,Laptop,"Waterproof design, Large storage capacity, Long battery life",Does it support fast charging?,It does support fast charging.
+Huawei Laptop 6,Huawei,Laptop,"Ultra-thin body, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Laptop 4,HP,Laptop,"High-resolution display, Long battery life",Is it waterproof?,It is not waterproof.
+Dell Smartwatch 6,Dell,Smartwatch,"Ultra-thin body, Long battery life, Large storage capacity",Is it waterproof?,It is waterproof.
+Apple Laptop 8,Apple,Laptop,"Ultra-thin body, Powerful processor, High-resolution display",Is it waterproof?,It is waterproof.
+Lenovo Laptop 3,Lenovo,Laptop,Ultra-thin body,Does it support fast charging?,It does not support fast charging.
+Samsung Smartwatch 4,Samsung,Smartwatch,"High-resolution display, Large storage capacity, Long battery life",Does it support fast charging?,It does not support fast charging.
+Apple Laptop 2,Apple,Laptop,Long battery life,Does it support fast charging?,It does not support fast charging.
+Dell Tablet 7,Dell,Tablet,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 128GB.
+HP Smartphone 5,HP,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartphone 3,HP,Smartphone,Waterproof design,What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Tablet 8,Samsung,Tablet,"Powerful processor, High-resolution display, Large storage capacity",Is it waterproof?,It is not waterproof.
+HP Tablet 3,HP,Tablet,"Ultra-thin body, High-resolution display, Powerful processor",Is it waterproof?,It is not waterproof.
+Apple Smartwatch 9,Apple,Smartwatch,"Ultra-thin body, Waterproof design, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Apple Tablet 6,Apple,Tablet,Waterproof design,Is it waterproof?,It is waterproof.
+Dell Smartphone 5,Dell,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 128GB.
+HP Laptop 10,HP,Laptop,Long battery life,Is it waterproof?,It is not waterproof.
+Huawei Smartphone 2,Huawei,Smartphone,"Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Tablet 9,Dell,Tablet,Large storage capacity,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 5,HP,Laptop,"Ultra-thin body, Large storage capacity, Long battery life",Is it waterproof?,It is waterproof.
+Apple Tablet 2,Apple,Tablet,"Waterproof design, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Lenovo Tablet 2,Lenovo,Tablet,"Waterproof design, Powerful processor, Large storage capacity",Is it waterproof?,It is waterproof.
+Samsung Smartphone 2,Samsung,Smartphone,"Waterproof design, Large storage capacity",Is it waterproof?,It is waterproof.
+Huawei Tablet 9,Huawei,Tablet,"Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 17 hours.
+Lenovo Laptop 7,Lenovo,Laptop,Large storage capacity,What is the battery life of this product?,It has a battery life of about 19 hours.
+HP Smartwatch 8,HP,Smartwatch,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 16 hours.
+Apple Smartphone 6,Apple,Smartphone,"Waterproof design, High-resolution display, Long battery life",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Tablet 3,Apple,Tablet,Powerful processor,Does it support fast charging?,It does support fast charging.
+Samsung Smartphone 5,Samsung,Smartphone,"Large storage capacity, Ultra-thin body, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Laptop 3,HP,Laptop,"Large storage capacity, Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 9 hours.
+Dell Smartwatch 6,Dell,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 512GB.
+Lenovo Smartphone 1,Lenovo,Smartphone,Long battery life,What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartphone 6,Samsung,Smartphone,Long battery life,What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Smartphone 9,Huawei,Smartphone,"Long battery life, Ultra-thin body, Waterproof design",Is it waterproof?,It is not waterproof.
+Huawei Smartwatch 4,Huawei,Smartwatch,Large storage capacity,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 6,HP,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Samsung Smartwatch 9,Samsung,Smartwatch,"High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Tablet 8,HP,Tablet,"High-resolution display, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartwatch 5,Huawei,Smartwatch,Powerful processor,What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Tablet 5,Apple,Tablet,High-resolution display,What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartphone 10,HP,Smartphone,"High-resolution display, Ultra-thin body, Waterproof design",Is it waterproof?,It is waterproof.
+Samsung Laptop 8,Samsung,Laptop,"Waterproof design, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Tablet 8,Huawei,Tablet,"Ultra-thin body, Large storage capacity",Is it waterproof?,It is not waterproof.
+Dell Tablet 5,Dell,Tablet,"High-resolution display, Ultra-thin body, Large storage capacity",Is it waterproof?,It is not waterproof.
+Lenovo Smartphone 10,Lenovo,Smartphone,High-resolution display,Is it waterproof?,It is waterproof.
+Apple Laptop 10,Apple,Laptop,"High-resolution display, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Laptop 4,Apple,Laptop,"Ultra-thin body, High-resolution display",Is it waterproof?,It is waterproof.
+HP Laptop 9,HP,Laptop,"Ultra-thin body, Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Laptop 2,Apple,Laptop,Ultra-thin body,Is it waterproof?,It is not waterproof.
+Lenovo Laptop 9,Lenovo,Laptop,Long battery life,Does it support fast charging?,It does support fast charging.
+Dell Smartphone 10,Dell,Smartphone,"High-resolution display, Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 18 hours.
+Apple Smartphone 4,Apple,Smartphone,Large storage capacity,Does it support fast charging?,It does support fast charging.
+Huawei Smartwatch 10,Huawei,Smartwatch,"Ultra-thin body, High-resolution display, Powerful processor",Is it waterproof?,It is waterproof.
+Lenovo Tablet 7,Lenovo,Tablet,"Ultra-thin body, Large storage capacity, Powerful processor",Is it waterproof?,It is waterproof.
+Dell Tablet 5,Dell,Tablet,"Powerful processor, Waterproof design",What is the battery life of this product?,It has a battery life of about 13 hours.
+Lenovo Smartwatch 9,Lenovo,Smartwatch,"High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+Apple Laptop 10,Apple,Laptop,"Powerful processor, Ultra-thin body, Waterproof design",Is it waterproof?,It is not waterproof.
+Dell Tablet 3,Dell,Tablet,"Ultra-thin body, Waterproof design, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Dell Smartphone 8,Dell,Smartphone,"Large storage capacity, High-resolution display",Is it waterproof?,It is not waterproof.
+Lenovo Tablet 6,Lenovo,Tablet,"Waterproof design, Powerful processor",What is the battery life of this product?,It has a battery life of about 9 hours.
+Dell Smartphone 10,Dell,Smartphone,"Waterproof design, Large storage capacity, High-resolution display",Is it waterproof?,It is waterproof.
+Dell Laptop 1,Dell,Laptop,Long battery life,What is the battery life of this product?,It has a battery life of about 10 hours.
+Lenovo Smartwatch 9,Lenovo,Smartwatch,"High-resolution display, Waterproof design",Is it waterproof?,It is waterproof.
+Samsung Laptop 4,Samsung,Laptop,"High-resolution display, Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Tablet 3,HP,Tablet,"High-resolution display, Large storage capacity",Is it waterproof?,It is waterproof.
+Samsung Tablet 4,Samsung,Tablet,"Powerful processor, Ultra-thin body, Long battery life",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 8,Lenovo,Smartwatch,"Powerful processor, Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartwatch 4,HP,Smartwatch,"Powerful processor, Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 22 hours.
+Apple Smartwatch 10,Apple,Smartwatch,"Long battery life, Powerful processor, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 8 hours.
+Dell Laptop 10,Dell,Laptop,"Long battery life, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Tablet 5,Apple,Tablet,Powerful processor,Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 7,Samsung,Laptop,"Waterproof design, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+HP Smartwatch 7,HP,Smartwatch,Large storage capacity,Is it waterproof?,It is not waterproof.
+Dell Smartwatch 1,Dell,Smartwatch,"High-resolution display, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Smartphone 2,Apple,Smartphone,High-resolution display,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartphone 4,HP,Smartphone,"Large storage capacity, Powerful processor, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+Apple Laptop 5,Apple,Laptop,"Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Tablet 4,Samsung,Tablet,"Large storage capacity, Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Smartwatch 5,Dell,Smartwatch,"Ultra-thin body, Long battery life",Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,"Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartphone 10,Huawei,Smartphone,"Large storage capacity, Long battery life, High-resolution display",Is it waterproof?,It is waterproof.
+Samsung Laptop 5,Samsung,Laptop,Large storage capacity,What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartwatch 6,Huawei,Smartwatch,High-resolution display,Does it support fast charging?,It does not support fast charging.
+Lenovo Laptop 1,Lenovo,Laptop,"Powerful processor, Large storage capacity",Is it waterproof?,It is waterproof.
+Huawei Smartwatch 1,Huawei,Smartwatch,"Powerful processor, Large storage capacity",What is the battery life of this product?,It has a battery life of about 12 hours.
+Lenovo Laptop 8,Lenovo,Laptop,"Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 14 hours.
+Samsung Tablet 2,Samsung,Tablet,"Large storage capacity, Powerful processor",What is the storage capacity?,It has a storage capacity of 256GB.
+Dell Smartwatch 6,Dell,Smartwatch,High-resolution display,What is the battery life of this product?,It has a battery life of about 22 hours.
+Samsung Smartphone 3,Samsung,Smartphone,"Long battery life, High-resolution display",Does it support fast charging?,It does support fast charging.
+Lenovo Smartwatch 7,Lenovo,Smartwatch,"Waterproof design, Long battery life",Is it waterproof?,It is not waterproof.
+HP Smartphone 10,HP,Smartphone,"Ultra-thin body, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Apple Laptop 8,Apple,Laptop,"Long battery life, Waterproof design, Powerful processor",Is it waterproof?,It is waterproof.
+Samsung Laptop 10,Samsung,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 512GB.
+Dell Smartwatch 6,Dell,Smartwatch,"Large storage capacity, Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 18 hours.
+Apple Laptop 5,Apple,Laptop,"High-resolution display, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 12 hours.
+Samsung Smartwatch 10,Samsung,Smartwatch,Powerful processor,Is it waterproof?,It is waterproof.
+Lenovo Tablet 7,Lenovo,Tablet,"High-resolution display, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 64GB.
+Huawei Smartphone 3,Huawei,Smartphone,"Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 16 hours.
+Samsung Laptop 10,Samsung,Laptop,"High-resolution display, Powerful processor, Long battery life",Is it waterproof?,It is waterproof.
+Dell Tablet 10,Dell,Tablet,"Long battery life, Ultra-thin body",Does it support fast charging?,It does support fast charging.
+HP Tablet 6,HP,Tablet,Waterproof design,What is the battery life of this product?,It has a battery life of about 17 hours.
+HP Laptop 4,HP,Laptop,"High-resolution display, Powerful processor",Is it waterproof?,It is not waterproof.
+Lenovo Laptop 5,Lenovo,Laptop,"High-resolution display, Powerful processor, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Lenovo Laptop 6,Lenovo,Laptop,"High-resolution display, Large storage capacity",What is the battery life of this product?,It has a battery life of about 21 hours.
+Lenovo Tablet 5,Lenovo,Tablet,Large storage capacity,Is it waterproof?,It is not waterproof.
+Dell Smartwatch 2,Dell,Smartwatch,"Large storage capacity, Long battery life",What is the battery life of this product?,It has a battery life of about 19 hours.
+Samsung Smartwatch 3,Samsung,Smartwatch,"High-resolution display, Waterproof design",Is it waterproof?,It is not waterproof.
+Dell Laptop 6,Dell,Laptop,"High-resolution display, Powerful processor",Does it support fast charging?,It does support fast charging.
+Lenovo Laptop 4,Lenovo,Laptop,"Large storage capacity, Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Apple Laptop 2,Apple,Laptop,"Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 11 hours.
+Dell Tablet 9,Dell,Tablet,"High-resolution display, Powerful processor, Waterproof design",Does it support fast charging?,It does not support fast charging.
+Huawei Tablet 2,Huawei,Tablet,Waterproof design,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 8,HP,Laptop,"High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+Dell Tablet 6,Dell,Tablet,"Waterproof design, High-resolution display, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Dell Laptop 9,Dell,Laptop,Powerful processor,What is the battery life of this product?,It has a battery life of about 9 hours.
+HP Smartphone 9,HP,Smartphone,Powerful processor,What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartwatch 2,HP,Smartwatch,"Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Laptop 6,Dell,Laptop,"Long battery life, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+Apple Laptop 5,Apple,Laptop,"High-resolution display, Waterproof design, Long battery life",Is it waterproof?,It is waterproof.
+Huawei Smartwatch 6,Huawei,Smartwatch,"Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Smartwatch 2,HP,Smartwatch,"High-resolution display, Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 20 hours.
+Lenovo Smartwatch 6,Lenovo,Smartwatch,"Powerful processor, Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartphone 6,Lenovo,Smartphone,"High-resolution display, Waterproof design, Powerful processor",Does it support fast charging?,It does not support fast charging.
+HP Smartwatch 5,HP,Smartwatch,"Powerful processor, Waterproof design, High-resolution display",What is the battery life of this product?,It has a battery life of about 12 hours.
+Samsung Laptop 10,Samsung,Laptop,"Long battery life, Powerful processor",What is the battery life of this product?,It has a battery life of about 15 hours.
+HP Smartphone 3,HP,Smartphone,"High-resolution display, Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 10 hours.
+Huawei Laptop 3,Huawei,Laptop,"Large storage capacity, Waterproof design, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Huawei Tablet 7,Huawei,Tablet,"Ultra-thin body, High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 20 hours.
+Lenovo Smartphone 6,Lenovo,Smartphone,High-resolution display,What is the battery life of this product?,It has a battery life of about 16 hours.
+Lenovo Laptop 10,Lenovo,Laptop,Powerful processor,Does it support fast charging?,It does not support fast charging.
+HP Laptop 6,HP,Laptop,"Long battery life, Powerful processor",Is it waterproof?,It is waterproof.
+Apple Laptop 9,Apple,Laptop,"Large storage capacity, Ultra-thin body, Powerful processor",Does it support fast charging?,It does support fast charging.
+Huawei Smartwatch 4,Huawei,Smartwatch,High-resolution display,Does it support fast charging?,It does not support fast charging.
+HP Laptop 1,HP,Laptop,"Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartphone 6,Samsung,Smartphone,"Long battery life, Powerful processor",What is the battery life of this product?,It has a battery life of about 11 hours.
+Dell Laptop 3,Dell,Laptop,"High-resolution display, Large storage capacity, Waterproof design",Is it waterproof?,It is waterproof.
+Samsung Tablet 2,Samsung,Tablet,"Powerful processor, Ultra-thin body, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 8,Huawei,Smartwatch,Waterproof design,Is it waterproof?,It is not waterproof.
+Apple Smartwatch 4,Apple,Smartwatch,"Long battery life, Powerful processor, Waterproof design",Is it waterproof?,It is not waterproof.
+Dell Smartphone 7,Dell,Smartphone,"Long battery life, High-resolution display",What is the battery life of this product?,It has a battery life of about 21 hours.
+HP Smartphone 7,HP,Smartphone,"Waterproof design, Large storage capacity, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Laptop 2,Dell,Laptop,"Large storage capacity, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 6,Samsung,Laptop,"Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 10 hours.
+HP Smartphone 7,HP,Smartphone,"Waterproof design, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Laptop 3,Samsung,Laptop,"Waterproof design, Long battery life",What is the battery life of this product?,It has a battery life of about 21 hours.
+Lenovo Smartphone 4,Lenovo,Smartphone,Waterproof design,Does it support fast charging?,It does support fast charging.
+Huawei Laptop 7,Huawei,Laptop,"Long battery life, Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 18 hours.
+HP Smartwatch 2,HP,Smartwatch,"Waterproof design, Powerful processor",Does it support fast charging?,It does support fast charging.
+Dell Smartphone 7,Dell,Smartphone,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 15 hours.
+Apple Smartphone 1,Apple,Smartphone,High-resolution display,What is the battery life of this product?,It has a battery life of about 21 hours.
+Samsung Tablet 7,Samsung,Tablet,"Waterproof design, High-resolution display",Is it waterproof?,It is waterproof.
+Dell Smartwatch 4,Dell,Smartwatch,"Waterproof design, Powerful processor, Long battery life",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartwatch 5,Lenovo,Smartwatch,"Ultra-thin body, Long battery life",What is the storage capacity?,It has a storage capacity of 512GB.
+Samsung Smartwatch 5,Samsung,Smartwatch,"Powerful processor, High-resolution display",Does it support fast charging?,It does support fast charging.
+Samsung Tablet 1,Samsung,Tablet,"Waterproof design, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Smartphone 5,Samsung,Smartphone,"Large storage capacity, Ultra-thin body, High-resolution display",Is it waterproof?,It is waterproof.
+Lenovo Laptop 7,Lenovo,Laptop,Waterproof design,Is it waterproof?,It is waterproof.
+Apple Laptop 6,Apple,Laptop,"Waterproof design, Powerful processor",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Laptop 4,Lenovo,Laptop,Long battery life,What is the battery life of this product?,It has a battery life of about 12 hours.
+Apple Smartwatch 8,Apple,Smartwatch,"Powerful processor, Long battery life, High-resolution display",Does it support fast charging?,It does support fast charging.
+Apple Smartphone 7,Apple,Smartphone,"Waterproof design, High-resolution display",Is it waterproof?,It is not waterproof.
+Dell Laptop 10,Dell,Laptop,"Long battery life, High-resolution display",What is the storage capacity?,It has a storage capacity of 64GB.
+Samsung Smartphone 1,Samsung,Smartphone,"High-resolution display, Powerful processor, Long battery life",Does it support fast charging?,It does not support fast charging.
+Samsung Smartwatch 9,Samsung,Smartwatch,"Large storage capacity, Long battery life, Powerful processor",Does it support fast charging?,It does support fast charging.
+Huawei Smartwatch 3,Huawei,Smartwatch,"Waterproof design, Powerful processor, Large storage capacity",What is the battery life of this product?,It has a battery life of about 17 hours.
+HP Smartphone 6,HP,Smartphone,"Ultra-thin body, Large storage capacity, Waterproof design",Is it waterproof?,It is waterproof.
+Samsung Smartwatch 4,Samsung,Smartwatch,"Long battery life, Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Tablet 10,Apple,Tablet,Long battery life,What is the storage capacity?,It has a storage capacity of 64GB.
+Dell Tablet 8,Dell,Tablet,"Large storage capacity, Powerful processor",Is it waterproof?,It is not waterproof.
+Dell Laptop 5,Dell,Laptop,Waterproof design,Is it waterproof?,It is not waterproof.
+Dell Tablet 4,Dell,Tablet,"High-resolution display, Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+HP Smartwatch 4,HP,Smartwatch,"Large storage capacity, High-resolution display, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Huawei Tablet 3,Huawei,Tablet,"Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Smartwatch 5,Apple,Smartwatch,"High-resolution display, Ultra-thin body, Powerful processor",Is it waterproof?,It is not waterproof.
+Apple Laptop 10,Apple,Laptop,"Powerful processor, High-resolution display",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartphone 2,Samsung,Smartphone,"Powerful processor, Large storage capacity, Long battery life",What is the battery life of this product?,It has a battery life of about 14 hours.
+Apple Smartphone 5,Apple,Smartphone,Large storage capacity,What is the storage capacity?,It has a storage capacity of 128GB.
+Dell Tablet 2,Dell,Tablet,"High-resolution display, Large storage capacity, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 16 hours.
+HP Tablet 3,HP,Tablet,"Large storage capacity, Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 15 hours.
+Samsung Smartwatch 6,Samsung,Smartwatch,"Waterproof design, Large storage capacity",What is the battery life of this product?,It has a battery life of about 10 hours.
+HP Laptop 7,HP,Laptop,"Large storage capacity, Ultra-thin body, Long battery life",Does it support fast charging?,It does support fast charging.
+Huawei Laptop 7,Huawei,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 128GB.
+Huawei Smartphone 1,Huawei,Smartphone,"Large storage capacity, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 11 hours.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,High-resolution display,Is it waterproof?,It is waterproof.
+Lenovo Tablet 6,Lenovo,Tablet,Ultra-thin body,What is the battery life of this product?,It has a battery life of about 11 hours.
+Dell Laptop 7,Dell,Laptop,Long battery life,Is it waterproof?,It is waterproof.
+Huawei Laptop 10,Huawei,Laptop,High-resolution display,What is the battery life of this product?,It has a battery life of about 18 hours.
+Dell Tablet 9,Dell,Tablet,High-resolution display,Does it support fast charging?,It does not support fast charging.
+HP Tablet 5,HP,Tablet,Large storage capacity,What is the storage capacity?,It has a storage capacity of 64GB.
+Apple Tablet 4,Apple,Tablet,"Large storage capacity, Long battery life, Powerful processor",Does it support fast charging?,It does support fast charging.
+HP Smartwatch 7,HP,Smartwatch,"Long battery life, High-resolution display, Large storage capacity",Does it support fast charging?,It does support fast charging.
+Samsung Laptop 2,Samsung,Laptop,"Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 15 hours.
+Dell Smartphone 2,Dell,Smartphone,"Long battery life, Waterproof design, Large storage capacity",What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Smartphone 8,Samsung,Smartphone,"Powerful processor, Waterproof design, Ultra-thin body",What is the battery life of this product?,It has a battery life of about 12 hours.
+Huawei Smartphone 6,Huawei,Smartphone,"Long battery life, Waterproof design",Is it waterproof?,It is waterproof.
+Apple Laptop 8,Apple,Laptop,"Long battery life, Ultra-thin body, Powerful processor",What is the battery life of this product?,It has a battery life of about 17 hours.
+Samsung Laptop 5,Samsung,Laptop,Waterproof design,Does it support fast charging?,It does support fast charging.
+Apple Tablet 10,Apple,Tablet,"Waterproof design, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Samsung Tablet 3,Samsung,Tablet,"Large storage capacity, High-resolution display",Does it support fast charging?,It does not support fast charging.
+Huawei Smartwatch 2,Huawei,Smartwatch,Ultra-thin body,Does it support fast charging?,It does not support fast charging.
+Dell Smartwatch 4,Dell,Smartwatch,"Ultra-thin body, Large storage capacity",Is it waterproof?,It is waterproof.
+Huawei Smartphone 6,Huawei,Smartphone,Large storage capacity,Does it support fast charging?,It does not support fast charging.
+HP Smartphone 8,HP,Smartphone,"Waterproof design, Large storage capacity, Ultra-thin body",Does it support fast charging?,It does not support fast charging.
+Dell Laptop 9,Dell,Laptop,Large storage capacity,What is the battery life of this product?,It has a battery life of about 23 hours.
+Samsung Smartphone 8,Samsung,Smartphone,"High-resolution display, Large storage capacity, Powerful processor",What is the battery life of this product?,It has a battery life of about 14 hours.
+Apple Smartphone 7,Apple,Smartphone,High-resolution display,What is the storage capacity?,It has a storage capacity of 512GB.
+Apple Smartwatch 2,Apple,Smartwatch,"Ultra-thin body, High-resolution display, Long battery life",Is it waterproof?,It is not waterproof.
+Lenovo Tablet 2,Lenovo,Tablet,"Ultra-thin body, Long battery life",What is the battery life of this product?,It has a battery life of about 10 hours.
+HP Smartphone 6,HP,Smartphone,Ultra-thin body,What is the storage capacity?,It has a storage capacity of 128GB.
+Apple Tablet 9,Apple,Tablet,"Large storage capacity, Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 9 hours.
+Lenovo Smartphone 3,Lenovo,Smartphone,Large storage capacity,What is the battery life of this product?,It has a battery life of about 23 hours.
+Lenovo Laptop 6,Lenovo,Laptop,"Ultra-thin body, High-resolution display",What is the battery life of this product?,It has a battery life of about 13 hours.
+Dell Tablet 6,Dell,Tablet,"High-resolution display, Powerful processor",Does it support fast charging?,It does support fast charging.
+Lenovo Laptop 7,Lenovo,Laptop,Long battery life,Is it waterproof?,It is waterproof.
+Dell Tablet 7,Dell,Tablet,"Long battery life, Waterproof design",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 6,HP,Laptop,"Long battery life, Waterproof design, High-resolution display",Does it support fast charging?,It does support fast charging.
+Huawei Smartwatch 3,Huawei,Smartwatch,Long battery life,What is the battery life of this product?,It has a battery life of about 13 hours.
+Apple Smartwatch 7,Apple,Smartwatch,"Long battery life, Powerful processor, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Huawei Smartphone 1,Huawei,Smartphone,"Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 10 hours.
+Samsung Smartphone 7,Samsung,Smartphone,"Large storage capacity, Powerful processor, Long battery life",Is it waterproof?,It is not waterproof.
+Dell Tablet 3,Dell,Tablet,"Large storage capacity, High-resolution display, Ultra-thin body",Is it waterproof?,It is waterproof.
+Samsung Tablet 5,Samsung,Tablet,"Long battery life, Large storage capacity",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Smartwatch 7,HP,Smartwatch,"High-resolution display, Long battery life",Does it support fast charging?,It does not support fast charging.
+Apple Smartphone 3,Apple,Smartphone,Powerful processor,What is the battery life of this product?,It has a battery life of about 14 hours.
+HP Smartphone 9,HP,Smartphone,"Ultra-thin body, Long battery life, Large storage capacity",Is it waterproof?,It is not waterproof.
+Dell Smartphone 9,Dell,Smartphone,"High-resolution display, Long battery life, Powerful processor",Is it waterproof?,It is not waterproof.
+Lenovo Smartwatch 1,Lenovo,Smartwatch,"Waterproof design, Long battery life",What is the storage capacity?,It has a storage capacity of 256GB.
+HP Laptop 1,HP,Laptop,"Waterproof design, High-resolution display",What is the storage capacity?,It has a storage capacity of 128GB.
+Lenovo Smartwatch 7,Lenovo,Smartwatch,"High-resolution display, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Laptop 6,Samsung,Laptop,"Powerful processor, Ultra-thin body, Large storage capacity",What is the storage capacity?,It has a storage capacity of 64GB.
+HP Laptop 6,HP,Laptop,"Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 13 hours.
+Dell Laptop 5,Dell,Laptop,"Waterproof design, Long battery life, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Huawei Laptop 9,Huawei,Laptop,Long battery life,What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Smartphone 3,Lenovo,Smartphone,"High-resolution display, Powerful processor, Large storage capacity",Does it support fast charging?,It does not support fast charging.
+Dell Tablet 7,Dell,Tablet,"Powerful processor, Long battery life, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 256GB.
+Lenovo Smartwatch 10,Lenovo,Smartwatch,"High-resolution display, Powerful processor, Waterproof design",What is the storage capacity?,It has a storage capacity of 512GB.
+HP Tablet 7,HP,Tablet,"Ultra-thin body, Long battery life, Powerful processor",Is it waterproof?,It is not waterproof.
+Huawei Tablet 8,Huawei,Tablet,"Waterproof design, Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 17 hours.
+Lenovo Tablet 6,Lenovo,Tablet,Large storage capacity,Does it support fast charging?,It does not support fast charging.
+Dell Tablet 3,Dell,Tablet,"Powerful processor, Large storage capacity",What is the battery life of this product?,It has a battery life of about 21 hours.
+Dell Smartwatch 4,Dell,Smartwatch,"High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 11 hours.
+Huawei Smartphone 8,Huawei,Smartphone,Ultra-thin body,Is it waterproof?,It is waterproof.
+Lenovo Smartwatch 9,Lenovo,Smartwatch,"High-resolution display, Powerful processor",Does it support fast charging?,It does not support fast charging.
+Samsung Laptop 4,Samsung,Laptop,"High-resolution display, Large storage capacity, Powerful processor",Does it support fast charging?,It does support fast charging.
+Apple Smartwatch 6,Apple,Smartwatch,"Large storage capacity, Ultra-thin body",What is the storage capacity?,It has a storage capacity of 128GB.
+Samsung Smartphone 3,Samsung,Smartphone,"Powerful processor, Long battery life, Waterproof design",What is the battery life of this product?,It has a battery life of about 15 hours.
+HP Smartwatch 5,HP,Smartwatch,"Large storage capacity, Ultra-thin body, Long battery life",What is the battery life of this product?,It has a battery life of about 18 hours.
+HP Smartwatch 6,HP,Smartwatch,"Powerful processor, High-resolution display",Does it support fast charging?,It does support fast charging.
+Huawei Smartwatch 4,Huawei,Smartwatch,"Powerful processor, Large storage capacity, Waterproof design",What is the storage capacity?,It has a storage capacity of 256GB.
+Samsung Smartphone 9,Samsung,Smartphone,"Waterproof design, High-resolution display",Does it support fast charging?,It does support fast charging.
+Samsung Laptop 8,Samsung,Laptop,"Waterproof design, Powerful processor",What is the battery life of this product?,It has a battery life of about 16 hours.
+HP Laptop 4,HP,Laptop,"High-resolution display, Ultra-thin body, Waterproof design",Does it support fast charging?,It does support fast charging.
+HP Laptop 5,HP,Laptop,Powerful processor,Is it waterproof?,It is waterproof.
+HP Smartwatch 5,HP,Smartwatch,"Long battery life, Ultra-thin body",Is it waterproof?,It is not waterproof.
+Samsung Smartphone 8,Samsung,Smartphone,"Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 11 hours.
+Apple Laptop 3,Apple,Laptop,"Powerful processor, High-resolution display, Waterproof design",What is the battery life of this product?,It has a battery life of about 17 hours.
+HP Laptop 10,HP,Laptop,"Long battery life, Powerful processor",Is it waterproof?,It is waterproof.
+Dell Laptop 8,Dell,Laptop,High-resolution display,Is it waterproof?,It is waterproof.
+HP Smartphone 2,HP,Smartphone,"Large storage capacity, Powerful processor, Long battery life",What is the battery life of this product?,It has a battery life of about 16 hours.
+Samsung Laptop 9,Samsung,Laptop,Ultra-thin body,Is it waterproof?,It is not waterproof.
+Apple Tablet 4,Apple,Tablet,"Ultra-thin body, Powerful processor",What is the storage capacity?,It has a storage capacity of 64GB.
+Lenovo Smartwatch 5,Lenovo,Smartwatch,"High-resolution display, Powerful processor",What is the battery life of this product?,It has a battery life of about 24 hours.
+Samsung Laptop 10,Samsung,Laptop,"Large storage capacity, High-resolution display",What is the battery life of this product?,It has a battery life of about 15 hours.
+Huawei Tablet 6,Huawei,Tablet,"Large storage capacity, Waterproof design, High-resolution display",What is the battery life of this product?,It has a battery life of about 14 hours.
