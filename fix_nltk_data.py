@@ -1,6 +1,10 @@
 import nltk
 import shutil
 import os
+import socket
+
+# 增加超时时间
+socket.setdefaulttimeout(60)
 
 # 找到 NLTK 数据目录
 nltk_data_dir = nltk.data.path[0]
